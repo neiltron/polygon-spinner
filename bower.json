@@ -1,0 +1,31 @@
+{
+  "name": "polygon-spinner",
+  "version": "0.1.0",
+  "homepage": "http://github.com/neiltron/polygon-spinner",
+  "authors": [
+    "Neil Pullman <neil@descend.org>"
+  ],
+  "description": "A loading spinner that draws an SVG triangle and then animates it to a dodecagon and back.",
+  "main": "spinner.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "svg",
+    "gsap",
+    "greensock",
+    "spinner",
+    "loadingicon"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gsap": "~1.17.0"
+  }
+}
